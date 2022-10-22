@@ -1,0 +1,33 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  background-color: #b7edf4;
+  height: 50px;
+  justify-content: space-between;
+}
+.car-logo {
+  width: 40px;
+  height: 25px;
+  margin-left: 8px;
+  border-radius: 5px;
+}
+.header-title {
+  font-style: normal;
+  font-weight: bold;
+  margin-left: 4px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.show-user-details {
+  margin-right: 10px;
+  cursor: pointer;
+  color: white;
+  font-family: sans-serif;
+  background-color: rgb(13, 42, 62);
+  border-radius: 5px;
+  padding: 2px;
+}
+.logo-title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

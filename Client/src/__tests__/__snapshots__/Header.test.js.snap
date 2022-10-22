@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render correctly renders correctly 1`] = `
+<div
+  className="header-container"
+>
+  <div
+    className="logo-title-container"
+  >
+    <img
+      alt="car-logo"
+      className="car-logo"
+      src="car.png"
+    />
+    <span
+      className="header-title"
+    >
+      Travelopia
+    </span>
+  </div>
+  <div>
+    <button
+      className="show-user-details"
+      onClick={[Function]}
+    >
+      Add Traveller
+    </button>
+  </div>
+</div>
+`;
